@@ -5,8 +5,6 @@ _____________________________________
 <li>🎒 Analise e Desenvolvimento de Sistemas - FMU - Centro Universitário </li>
 <br/>
 
-![jujubeto GitHub stats](https://github-readme-stats.vercel.app/api?username=jujubeto&show_icons=true&theme=tokyonight)
-
 O que mais eu estou ultilizando para estudo
 
 [![skills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
