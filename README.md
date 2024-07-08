@@ -1,6 +1,6 @@
 ### Oi! Me chamo Gilberto Balogh, aqui você verá sobre meus estudos do dia a dia 🐈‍⬛
 _____________________________________
-<li>🤓 Hoje estou estudando para obter conhecimento para melhorar meu conhecimento no trabalho.</li>
+<li>🤓 Hoje estou estudando para obter conhecimento para melhorar meu desempenho no trabalho.</li>
 <li>🎒 Analise e Desenvolvimento de Sistemas - FMU - Centro Universitário </li>
 <br/>
 
