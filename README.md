@@ -1,7 +1,8 @@
 ### Oi! Me chamo Gilberto Balogh, aqui você verá sobre meus estudos do dia a dia 🐈‍⬛
 _____________________________________
-<li>🤓 Hoje estou estudando para obter conhecimento para melhorar meu desempenho no trabalho.</li>
-<li>🎒 Analise e Desenvolvimento de Sistemas - FMU - Centro Universitário </li>
+<li>🤓 Hoje estou estudando para obter conhecimento para melhorar meu desempenho no trabalho. </li>
+<li>🎒 Analise e Desenvolvimento de Sistemas - FMU - Centro Universitário. </li>
+<li>👩‍💻 Auxiliar de programação na ELEV-TECNOLOGIA. </li>
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
