@@ -5,7 +5,7 @@ _____________________________________
 <li>👩‍💻 Auxiliar de programação na ELEV-TECNOLOGIA. </li>
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gilberto&show_icons=true&theme=dark)
 
 O que mais eu estou ultilizando para estudo
 
