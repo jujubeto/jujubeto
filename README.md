@@ -2,7 +2,7 @@
 _____________________________________
 <li>🤓 Hoje estou estudando para obter conhecimento para melhorar meu desempenho no trabalho. </li>
 <li>🎒 Analise e Desenvolvimento de Sistemas - FMU - Centro Universitário. </li>
-<li>👩‍💻 Auxiliar de programação na ELEV-TECNOLOGIA. </li>
+<li>👩‍💻 Assitente de programação na ELEV-TECNOLOGIA. </li>
 <br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jujubeto&show_icons=true&theme=dark)
